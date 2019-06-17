@@ -1,11 +1,11 @@
 package main
 
-import "fmt"
+// import "fmt"
 
-func main() {
-	fmt.Println("Protobuf learning from", sendResponseToClient())
-}
+// func main() {
+// 	fmt.Println("Protobuf learning from", sendResponseToClient())
+// }
 
-func sendResponseToClient() string {
-	return "Adithya Visnu"
-}
+// func sendResponseToClient() string {
+// 	return "Adithya Visnu"
+// }
