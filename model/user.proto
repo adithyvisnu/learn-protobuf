@@ -1,0 +1,11 @@
+syntax="proto3";
+
+package model;
+
+message NameResponse{
+  string nameRes = 1;
+}
+
+message NameRequest{
+  string name = 1;
+}
